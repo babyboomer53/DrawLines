@@ -1,4 +1,4 @@
-// Fig. 4.27: DrawLinesController.java
+package sample;// Fig. 4.27: sample.DrawLinesController.java
 // Using strokeLine to connect the corners of a canvas.
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

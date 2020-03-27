@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 public class DrawLines extends Application {
     @Override
     public void start(Stage stage) throws Exception {
-        // loads DrawLines.fxml and configures the DrawLinesController
+        // loads DrawLines.fxml and configures the sample.DrawLinesController
         Parent root =
                 FXMLLoader.load(getClass().getResource("./DrawLines.fxml"));
 
